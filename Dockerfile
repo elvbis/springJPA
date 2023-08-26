@@ -1,4 +1,4 @@
-FROM openjdk:11-jdk-alpine
+FROM openjdk:22-ea-11
 MAINTAINER pe.com
 EXPOSE 8080
 COPY ./target/springJPA-0.0.1-SNAPSHOT.jar message-server-1.0.0.jar
