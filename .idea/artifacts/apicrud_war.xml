@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="apicrud:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>apicrud</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="apicrud-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="apicrud:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,7 @@
+pe\spring\jpa\exception\ResourceNotFoundException.class
+pe\spring\jpa\controller\DocumentController.class
+pe\spring\jpa\exception\GlobalExceptionHandler.class
+pe\spring\jpa\repository\DocumentRepository.class
+pe\spring\jpa\Application.class
+pe\spring\jpa\exception\ErrorDetails.class
+pe\spring\jpa\repository\entity\DocumentEntity.class
